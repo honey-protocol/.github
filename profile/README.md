@@ -20,13 +20,16 @@ Users of Honey Finance can:
 
 ## Contributing/Building
 
-The Honey Finance protocol is completely open source and tries to be as transparent about the development of the protocol as possible.
+The Honey Finance protocol is completely open source and transparant so the community can be involved while we build.
 
 Honey Finance aims to teach individuals about DeFi and create an army of builders that onboard the next billion users into crypto.
 
-Honey Finance incentivises people to build open source code for everyone to leverage. Check out our docs, repos, github issues and projects to get involved.
+Honey Finance incentivises people to build open source code for everyone to leverage. 
+Check out our docs, repos, github issues and projects to get involved.
 
-By contributing to this public repository you agree to our [terms-of-service](https://www.honey.finance/) which means that you agree that everything in this repo is owned by the Honey Development Association (based in Switzerland) and that everything will be made open source under the MIT License for others to build on top of.
+By contributing to this public repository you agree to our [terms-of-service](https://www.honey.finance/) 
+which means that you agree that everything in this repo is owned by the Honey Development Association (based in Switzerland) 
+and that everything will be made open source under the MIT License for others to build on top of.
 
 ## Contact us
 
