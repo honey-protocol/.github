@@ -5,15 +5,15 @@ Honey Finance pioneers liquidity solutions for NFTs and allows you to access DeF
 With Honey Finance protocols/web3 projects can:
 
 - onboard their NFT project through staking as a service
-- create permissionless lending pools that use NFTs as collateral
+- (create permissionless lending pools that use NFTs as collateral)
 - (offer yield strategies)
 - more coming soon...
 
 Users of Honey Finance can:
 
 - stake their NFTs in farms to earn tokens
-- borrow tokens against their NFTs
-- vote on governance proposals with veHONEY
+- (borrow tokens against their NFTs)
+- (vote on governance proposals with veHONEY)
 - (stake tokens in Katana yield vaults)
 - more coming soon...
 
@@ -35,11 +35,13 @@ and that everything will be made open source under the MIT License for others to
 
 Promoting and supporting the web3 community is important to us. Get in touch! 
 Join our discord to become part of our community [Discord](https://discord.com/invite/T7RQ8hMamB) 
-or learn more about us on [Twitter](https://twitter.com/honeydefi) and [Blog](https://blog.honey.finance/).
+or learn more about us on [Twitter](https://twitter.com/honeydefi) and our [Blog](https://blog.honey.finance/).
 
 ## List of current partners
 
+- https://medium.com/@builderecosystem
 - https://solvent.xyz/
 - https://app.katana.so/
+- https://atrix.finance/
 
 
